@@ -21,6 +21,4 @@
 out/
 target/
 .idea_modules/
-pom.xml
-simpleClasses.iml
-src/
+*.iml
